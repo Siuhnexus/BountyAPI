@@ -6,7 +6,7 @@ schemaVersion = "0.0.1"
 namespace = "Siuhnexus"
 name = "BountyAPI"
 versionNumber = "0.0.1"
-description = "This mod makes adding custom bountys to the pitch-black stone hassle-free. It is targeted at mod development und doesn't do anything on its own."
+description = "This mod makes adding custom bountys to the pitch-black stone hassle-free. It is targeted at mod development and doesn't do anything on its own."
 websiteUrl = "https://github.com/Siuhnexus/BountyAPI"
 containsNsfwContent = false
 
