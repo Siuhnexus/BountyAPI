@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2025-12-14
+
 ### Fixed
 
 - Missing file
@@ -17,5 +19,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - First version of the mod!
 
-[unreleased]: https://github.com/Siuhnexus/BountyAPI/compare/1.0.0...HEAD
+[unreleased]: https://github.com/Siuhnexus/BountyAPI/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/Siuhnexus/BountyAPI/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/Siuhnexus/BountyAPI/compare/f916238abff097b54fe97ffdeb958aee827f4bdf...1.0.0
